@@ -1,17 +1,21 @@
 {
-  "name": "paper-range-slider",
+  "name": "ac-piano",
   "authors": [
-    "Iftach Sadeh"
+    ""
   ],
+  "description": "",
   "keywords": [
-    "web-component",
+    "web-components",
     "polymer"
   ],
   "license": "MIT",
+  "homepage": "",
   "ignore": [
-    "/.*",
-    "/test/",
-    "/demo/"
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0",
@@ -25,3 +29,4 @@
     "iron-form-element-behavior": "PolymerElements/iron-form-element-behavior#^2.0.0"
   }
 }
+  
